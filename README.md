@@ -1,2 +1,2 @@
 # github-practice
-A repo for practicing the basics of using git and GitHub
+A stupid thing for practicing the basics of using git and GitHub
